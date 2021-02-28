@@ -4,6 +4,7 @@
 //
 //  Created by Kevin willian Jorge souza on 26/02/21.
 //
+var hello = nice
 
 import UIKit
 enum GameType: String {
